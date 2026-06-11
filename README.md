@@ -1,9 +1,6 @@
 
----
+### 📁 Projeto 2: site_clinica
 
-## README do projeto `site_clinica`
-
-```markdown
 # 🏥 Site Clínica Médica (Institucional)
 
 ![Status](https://img.shields.io/badge/status-finalizado-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1572B6)
@@ -35,6 +32,7 @@ Site institucional responsivo para uma clínica médica fictícia. Desenvolvido 
 ```bash
 git clone https://github.com/johnnymartins/site_clinica.git
 cd site_clinica
+```
 # Abra o index.html no seu navegador
 
 📚 O que aprendi
