@@ -25,7 +25,7 @@ Site institucional responsivo para uma clínica médica fictícia. Desenvolvido 
 
 ## 🌐 Acesse o site ao vivo
 
-👉 [Clique aqui para visualizar](https://johnnymartins.github.io/site_clinica) *(ajuste o link se necessário)*
+👉 [Clique aqui para visualizar](https://johnnymartins.github.io/site_clinica)
 
 ## 🚀 Como executar localmente
 
